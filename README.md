@@ -1,6 +1,12 @@
 # Deep-fashion-captions
 #### Generates fashion captions given an image of posing human in a plain bakcground.
 
+
+### Examples
+<p align = "center">
+<img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/collage1.jpg">
+</p>
+
 ### Usage
 ```
  pip install -r requirements.txt
