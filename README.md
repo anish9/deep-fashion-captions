@@ -1,4 +1,7 @@
 ## Deep-fashion-captions
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanish9%2Fdeep-fashion-captions&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ##### Generates fashion captions, given an image of human posing in a plain bakcground.
 ##### UPDATE  : This repo hosts only testing of the model, Training code will be released soon...
 
