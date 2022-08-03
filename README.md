@@ -4,7 +4,7 @@
 
 ### Examples
 <p align = "center">
-<img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/collage1.jpg">
+<img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/collage1.jpg" width="200" height="300">
 </p>
 
 ### Usage
