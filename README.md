@@ -1,5 +1,6 @@
-# Deep-fashion-captions
-#### Generates fashion captions given an image of posing human in a plain bakcground.
+## Deep-fashion-captions
+##### Generates fashion captions given an image of posing human in a plain bakcground.
+##### update  : This repo hosts only testing of the model, Training code will be released soon...
 
 
 ### Examples
@@ -18,4 +19,11 @@
  pip install -r requirements.txt
 ```
 
+### Download the weights and place it in weights folder
+
 <a href="https://drive.google.com/file/d/10OfN_jiEucIXUzYxJbY8v1_zrUTDipS6/view?usp=sharing">Download weights</a>
+
+### Testing
+```
+python test.py assets/saved.jpg
+```
