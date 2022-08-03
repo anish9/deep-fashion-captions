@@ -1,6 +1,6 @@
 ## Deep-fashion-captions
-##### Generates fashion captions given an image of posing human in a plain bakcground.
-##### update  : This repo hosts only testing of the model, Training code will be released soon...
+##### Generates fashion captions, given an image of human posing in a plain bakcground.
+##### UPDATE  : This repo hosts only testing of the model, Training code will be released soon...
 
 
 ### Examples
