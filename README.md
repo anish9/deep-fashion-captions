@@ -8,7 +8,7 @@
 
 ### Examples
 <p align = "center">
-<img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/plot1.png" width="850" height="480">
+<img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/plot1.png" width="930" height="480">
 </p>
 
 ### Usage
