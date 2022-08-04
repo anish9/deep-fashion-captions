@@ -13,10 +13,10 @@ os.environ["TF_CPP_MIN_LOG_LEVEL"] = '3'
 im_path = sys.argv[1]
 image_size = (320,320,3)
 seq_max_length = 100
-vectorizer = restore_tokenizer("weights/fashion500vect")
+vectorizer = restore_tokenizer("weights/fashion1500vect")
 
 
-caption_nn = load_model("weights/fashion_caption.h5",custom_objects={"positional_embed":positional_embed,
+caption_nn = load_model("weights/frozen_fashion_caption.h5",custom_objects={"positional_embed":positional_embed,
                                                 "encoder_model":encoder_model,
                                                 "decoder_model":decoder_model})
 
