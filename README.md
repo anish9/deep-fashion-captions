@@ -18,7 +18,7 @@
 
 ### Download the weights and place it in weights folder
 
-<a href="https://drive.google.com/file/d/10OfN_jiEucIXUzYxJbY8v1_zrUTDipS6/view?usp=sharing">Download weights</a>
+<a href="https://drive.google.com/file/d/1bdHnKqikng7C4FlWz1mg7HdayUxll2Ic/view?usp=sharing">Download weights</a>
 
 ### Testing
 ```
