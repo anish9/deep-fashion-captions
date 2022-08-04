@@ -58,18 +58,7 @@ class positional_embed(tf.keras.layers.Layer):
         return config
     
 
-    
-    
-def image_model(image_size,trainable=False):
-    base_model = EfficientNetB0(
-        input_shape=image_size, include_top=False, weights="imagenet",
-    )
-    base_model.trainable = trainable
-    base_model_out  = base_model.output
-    base_model_out =  layers.Reshape((-1,base_model_out.shape[-1]))(base_model_out)
-    
-    im_model = tf.keras.models.Model(base_model.input,base_model_out)
-    return im_model
+
 
 class encoder_model(tf.keras.models.Model):
     def __init__(self,dense_dim,embed_dim,num_heads,acti_func="relu",**kwargs):
