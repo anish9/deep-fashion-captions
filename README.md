@@ -11,16 +11,14 @@
 <img src = "https://github.com/anish9/deep-fashion-captions/blob/main/assets/plot1.png" width="930" height="480">
 </p>
 
-### Usage
+#### Usage
 ```
  pip install -r requirements.txt
 ```
 
-### Downloading weights
-
 <a href="https://drive.google.com/file/d/1bdHnKqikng7C4FlWz1mg7HdayUxll2Ic/view?usp=sharing">Download weights</a>
 
-### Testing
+#### Testing
 ```
 python test.py assets/saved.jpg
 ```
