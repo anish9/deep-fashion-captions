@@ -16,7 +16,7 @@
  pip install -r requirements.txt
 ```
 
-### Download the weights and place it in weights folder
+### Downloading weights
 
 <a href="https://drive.google.com/file/d/1bdHnKqikng7C4FlWz1mg7HdayUxll2Ic/view?usp=sharing">Download weights</a>
 
