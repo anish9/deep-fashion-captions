@@ -4,7 +4,7 @@
 ##### UPDATE  : This repo hosts only testing of the model, Training code will be released soon...
 
 ##### Introduction 
-* Generates fashion captions, given an image of human posing (for best results plain background preferred but can work on any backgrounds).
+* Generates fashion captions, given an image of human posing (for best results plain background preferred but not a constraint).
 
 ### Examples
 <p align = "center">
